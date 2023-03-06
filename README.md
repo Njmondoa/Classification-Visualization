@@ -3,7 +3,8 @@
 Datasets Used: Iris dataset, Breast Cancer Dataset and Wine Dataset from UC Irvine Machine Learning Repository
 
 ## Preview
-![Example of Streamlit|635x380](Screenshots/streamlit-web-app.PNG)
+
+Coming Soon ...
 
 ## Installation
 You need these dependencies:
