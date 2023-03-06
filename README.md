@@ -14,14 +14,7 @@ pip install matplotlib
 ```
 
 ## Usage
-Clone the repository
-```console
-git clone https://github.com/lionelsamrat10/Classification-Visualization.git
-```
-Go to the project directory
-```console
-cd Classification-Visualization-main
-```
+
 Run
 ```console
 streamlit run main.py
