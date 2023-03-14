@@ -4,7 +4,12 @@ Datasets Used: Iris dataset, Breast Cancer Dataset and Wine Dataset from UC Irvi
 
 ## Preview
 
-Coming Soon ...
+
+ ![](Covers/Classif1.png)
+
+ ![](Covers/Classif2.png)
+
+ ![](Covers/Classif3.png)
 
 ## Installation
 You need these dependencies:
